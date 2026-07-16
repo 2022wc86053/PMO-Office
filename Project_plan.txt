@@ -1,0 +1,9 @@
+Project Name: PMO Office Setup
+
+Tasks
+1. Create Repository
+2. Clone Repository
+3. Update Inventory
+4. Push Changes
+
+Status: In Progress
